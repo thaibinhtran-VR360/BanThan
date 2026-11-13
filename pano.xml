@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" start="node5" appversion="7.1.12" apprev="21036">
+  <panorama id="node5">
+    <input height="3600" leveltilesize="510" levelbias="0.400" width="3600" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level height="3600" width="3600" preload="0" predecode="0"/>
+      <level height="1800" width="1800" preload="0" predecode="0"/>
+      <level height="900" width="900" preload="0" predecode="0"/>
+      <level height="450" width="450" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="84.4359" fovmode="2">
+      <start projection="4" pan="63.05" tilt="-25.64" fov="135"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
+    </view>
+    <userdata author="" latitude="15.505153" customnodeid="" title="" info="" tags="BanThan" longitude="108.680397" altitude="45.36" heading="84.4359" source="" nodeid="node5" comment="" datetime="5/6/2025 9:12 AM" copyright="" description=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderradius="1" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" width="180" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot url="{node6}" pan="-16.0243" target="-6.9/-36.9/100.0" title="" skinid="ht_node_UAV" id="Point01" distance="151.889" tilt="0" description=""/>
+      <hotspot url="{node7}" pan="6.49451" target="-45.9/-27.8/100.0" title="" skinid="ht_node_UAV" id="Point02" distance="183.632" tilt="0" description=""/>
+      <hotspot url="{node8}" pan="5.4278" target="31.7/-26.7/100.0" title="" skinid="ht_node_UAV" id="Point03" distance="260.105" tilt="0" description=""/>
+    </hotspots>
+    <media>
+      <sound field="90.000" pan="-1.000" tiltsize="10.000" level="1.000" id="_background" mode="0" nodechangekeep="1" pansize="10.000" ambientlevel="0.000" loop="-1" tilt="-1.000" startmutedmobile="0">
+        <source url="media/Moonlight on the Water.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextfullscreen="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1" contextvr="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3600" leveltilesize="510" levelbias="0.400" width="3600" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level height="3600" width="3600" preload="0" predecode="0"/>
+      <level height="1800" width="1800" preload="0" predecode="0"/>
+      <level height="900" width="900" preload="0" predecode="0"/>
+      <level height="450" width="450" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-25.9859" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
+    </view>
+    <userdata author="" latitude="15.504905" customnodeid="" title="" info="" tags="BanThan" longitude="108.681791" altitude="27.45" heading="-25.9859" source="" nodeid="node6" comment="" datetime="5/6/2025 9:09 AM" copyright="" description=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderradius="1" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" width="180" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot url="{node5}" pan="53.5535" target="143.3/-32.2/100.0" title="" skinid="ht_node_UAV" id="Point01" distance="151.889" tilt="0" description=""/>
+      <hotspot url="{node8}" pan="-79.9228" target="14.9/-31.9/100.0" title="" skinid="ht_node_UAV" id="Point02" distance="131.09" tilt="0" description=""/>
+      <hotspot url="{node7}" pan="-50.6051" target="-53.8/-17.3/100.0" title="" skinid="ht_node_UAV" id="Point03" distance="72.532" tilt="0" description=""/>
+    </hotspots>
+    <media>
+      <sound field="90.000" pan="-1.000" tiltsize="10.000" level="1.000" id="_background" mode="0" nodechangekeep="1" pansize="10.000" ambientlevel="0.000" loop="-1" tilt="-1.000" startmutedmobile="0">
+        <source url="media/Moonlight on the Water.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextfullscreen="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1" contextvr="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3600" leveltilesize="510" levelbias="0.400" width="3600" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level height="3600" width="3600" preload="0" predecode="0"/>
+      <level height="1800" width="1800" preload="0" predecode="0"/>
+      <level height="900" width="900" preload="0" predecode="0"/>
+      <level height="450" width="450" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-84.1233" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
+    </view>
+    <userdata author="" latitude="15.505498" customnodeid="" title="" info="" tags="BanThan" longitude="108.682073" altitude="26.63" heading="-84.1233" source="" nodeid="node7" comment="" datetime="5/6/2025 9:08 AM" copyright="" description=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderradius="1" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" width="180" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot url="{node5}" pan="17.9349" target="178.0/-14.7/100.0" title="" skinid="ht_node_UAV" id="Point01" distance="183.632" tilt="0" description=""/>
+      <hotspot url="{node8}" pan="-165.69" target="9.5/-34.9/100.0" title="" skinid="ht_node_UAV" id="Point02" distance="76.5816" tilt="0" description=""/>
+      <hotspot url="{node6}" pan="71.2575" target="30.2/-59.4/100.0" title="" skinid="ht_node_UAV" id="Point03" distance="72.532" tilt="0" description=""/>
+    </hotspots>
+    <media>
+      <sound field="90.000" pan="-1.000" tiltsize="10.000" level="1.000" id="_background" mode="0" nodechangekeep="1" pansize="10.000" ambientlevel="0.000" loop="-1" tilt="-1.000" startmutedmobile="0">
+        <source url="media/Moonlight on the Water.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextfullscreen="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1" contextvr="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3600" leveltilesize="510" levelbias="0.400" width="3600" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level height="3600" width="3600" preload="0" predecode="0"/>
+      <level height="1800" width="1800" preload="0" predecode="0"/>
+      <level height="900" width="900" preload="0" predecode="0"/>
+      <level height="450" width="450" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-44.0117" fovmode="2">
+      <start projection="4" pan="18.52" tilt="-25.01" fov="135"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
+    </view>
+    <userdata author="" latitude="15.505599" customnodeid="" title="" info="" tags="BanThan" longitude="108.682780" altitude="43.95" heading="-44.0117" source="" nodeid="node8" comment="" datetime="5/6/2025 9:07 AM" copyright="" description=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label borderradius="1" backgroundalpha="1" height="20" enabled="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" width="180" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" background="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot url="{node7}" pan="54.421" target="-78.1/-36.5/100.0" title="" skinid="ht_node_UAV" id="Point01" distance="76.5816" tilt="0" description=""/>
+      <hotspot url="{node6}" pan="82.0511" target="53.6/0.0/100.0" title="" skinid="ht_node_UAV" id="Point02" distance="131.09" tilt="0" description=""/>
+    </hotspots>
+    <media>
+      <sound field="90.000" pan="-1.000" tiltsize="10.000" level="1.000" id="_background" mode="0" nodechangekeep="1" pansize="10.000" ambientlevel="0.000" loop="-1" tilt="-1.000" startmutedmobile="0">
+        <source url="media/Moonlight on the Water.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" enabled="1" softedge="0" zoomoutpause="1" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" invertcontrol="1" contextfullscreen="1" rubberband="0" zoomcentercursor="1" lockedwheel="0" lockedkeyboardzoom="0" contextprojections="0" hideabout="0" sensitivity="8" speedwheel="1" contextvr="1" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="Bàn Than" tags="" comment="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map title="" type="web" id="Map01" index="0" mapmaxzoom="18" mapprovider="custom" mapurltemplate="http://mt0.google.com/vt/lyrs=s&amp;hl=vi&amp;x={x}&amp;y={y}&amp;z={z}" googlecustomstylecode="" mapstyle="streets"/>
+</tour>
